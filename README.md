@@ -1,6 +1,7 @@
 # CHCrypto
 
 Gives access to cryptographic functions not available in command helper.
+As of build #2708 of CommandHelper this functionality is included in command helper itself.
 
 ## Function Documentation
 
